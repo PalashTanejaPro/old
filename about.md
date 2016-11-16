@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I am high school student at Delhi Public School Rohini.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am a tech enthusiast with knowledge of C++, CSS, HTML, Linux and Ethical Hacking.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tanejapalash@gmail.com](mailto:tanejapalash@gmail.com)
